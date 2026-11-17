@@ -1,0 +1,2951 @@
+{
+ "buildings": [
+  {
+   "id": "plaza",
+   "slug": "plaza",
+   "name": "Center Hotels Plaza",
+   "short": "Plaza",
+   "area": "harbour",
+   "band": "char",
+   "tone": "paper",
+   "address": "Aðalstræti 4–6, 101 Reykjavík",
+   "propid": 26684,
+   "opened": 2009,
+   "rooms_n": 255,
+   "geo": [
+    64.148365,
+    -21.942057
+   ],
+   "hero": {
+    "base": "assets/img/plaza/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/plaza/g0",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/plaza/g2",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/plaza/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "Built for the national newspaper’s offices and print house",
+    "is": "Byggt fyrir skrifstofur og prentsmiðju Morgunblaðsins"
+   },
+   "story": {
+    "en": "We seem to have a thing for newspapers. Our fifth hotel, Plaza, was built for the national newspaper’s offices and print house. Plaza sits on Aðalstræti, the oldest street in Reykjavík. Right outside the front door is Ingólfstorg, the city’s oldest square and a hub for events and happenings in the city center. After renovation, Plaza became our largest hotel, with 255 rooms and views over the city center.",
+    "is": "Við virðumst hafa sérstakt dálæti á dagblöðum. Fimmta hótelið okkar, Plaza, var byggt fyrir skrifstofur og prentsmiðju Morgunblaðsins. Center Hotels Plaza stendur við Aðalstræti, elstu götu Reykjavíkur. Fyrir framan hótelið er Ingólfstorg, elsta torg borgarinnar og miðpunktur ýmissa viðburða í miðbænum. Plaza er stærsta hótelið okkar, með 255 herbergjum og fundar- og veislusölum."
+   },
+   "lede": {
+    "en": "Stay by Reykjavík’s main square",
+    "is": "Stórt og vel staðsett"
+   },
+   "intro": {
+    "en": "Located in central Reykjavik on Ingólfstorg square, Center Hotels Plaza overlooks the city’s oldest square and is one of the best-located hotels in Reykjavik. Surrounded by shops, restaurants, and cultural venues, it’s a great choice for guests who want to stay right in the heart of the city, within walking distance of the Old Harbor, Laugavegur, and Reykjavik’s main attractions.",
+    "is": "Center Hotels Plaza er stórt og vel staðsett hótel í hjarta borgarinnar. Hótelið stendur við Ingólfstorg og gestir hótelsins geta því oft á tíðum notið lifandi stemningar miðborgarinnar sem fram fer á torginu. Staðsetningin er afar þægileg og hentar fyrir hvers kyns heimsóknir þar sem allt sem þú þarft er í göngufæri frá Plaza. Á hótelinu eru notaleg herbergi og góðir fundarsalir útbúnir nýjustu tækjum og tólum fyrir góð fundarhöld."
+   },
+   "amenities": {
+    "en": [
+     "Meeting rooms",
+     "Bar",
+     "Breakfast",
+     "Free wifi"
+    ],
+    "is": [
+     "Fundarsalir",
+     "Bar",
+     "Morgunverður",
+     "Þráðlaust net"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Standard Single",
+     "kicker": {
+      "en": "Cosy Solo Stay",
+      "is": "Notó fyrir einn"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "16.4",
+     "sleeps": 1,
+     "desc": {
+      "en": "The Standard Single Rooms average 16.4 m² and feature a comfortable 120 cm bed, private bathroom with shower, free Wi-Fi, mini-bar, tea and coffee facilities, a desk, TV and a telephone. Ideal for solo travelers. Sleeps 1 guest.",
+      "is": "Standard Single herbergin eru að meðaltali 16,4 m² og eru búin 120 cm rúmi, baðherbergi með sturtu, skrifborði, þráðlausu neti, kaffi og te, sjónvarpi og síma. Tilvalin fyrir 1 gest."
+     },
+     "img": {
+      "base": "assets/img/plaza/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "Comfort for two",
+      "is": "Þægindi fyrir tvo"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "19.2",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Standard Double/Twin Rooms average 19.2 m² and feature either one king-size bed or two twin beds, which can be arranged as a double bed. Each room has a desk, mini-bar, free Wi-Fi, telephone, and a TV, plus a private bathroom with a shower; a shower-and-bathtub combination is available upon request. A baby cot can be added for an extra fee. Ideal for 2 guests.",
+      "is": "Standard Double/Twin herbergin eru að meðaltali 19,2 m². Í þeim eru tvö einbreið rúm sem hægt er að sameina í eitt king-size-rúm sé þess óskað. Í herbergjunum er skrifborði, minibar, ókeypis Wi-Fi, sjónvarpi og síma. Öll herbergin eru með sérbaðherbergi með sturtu en hægt er að óska eftir að fá sturtu/baðkar samsetningu. Einnig er hægt að bæta við barnarúmi gegn gjaldi. Tilvalið fyrir 2 gesti."
+     },
+     "img": {
+      "base": "assets/img/plaza/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Standard Plus Double/Twin",
+     "kicker": {
+      "en": "More space",
+      "is": "Meira rými"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "21.1",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Standard Plus Double/Twin Rooms average 21.1 m² and feature two single beds that can be combined into one king-size bed upon request. Amenities include free Wi-Fi, a TV, telephone and minibar. Some rooms offer views over Ingólfstorg Square in Reykjavík’s historic city center. Each room has a private bathroom with a shower, while a bathtub-and-shower combination, baby cot or extra bed is available upon request for an additional fee. Ideal for up to 3 guests.",
+      "is": "Standard Plus Double/Twin herbergin eru að meðaltali 21,1 m² og eru með tveimur einbreiðum rúmum sem hægt er að sameina í eitt king-size-rúm sé þess óskað. Í herbergjunum eru ókeypis Wi-Fi, sjónvarp, sími og minibar. Sum herbergin bjóða upp á útsýni yfir Ingólfstorg í sögulegum miðbæ Reykjavíkur. Öll herbergin eru með sérbaðherbergi og sturtu en hægt er að óska eftir baðkari með sturtu, barnarúmi eða aukarúmi gegn aukagjaldi. Tilvalið fyrir allt að 3 gesti."
+     },
+     "img": {
+      "base": "assets/img/plaza/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Superior Double/Twin",
+     "kicker": {
+      "en": "City Center views",
+      "is": "Með útsýni"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "21.1",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Superior Double/Twin Rooms average 21.1 m² and feature two single beds that can be combined into one king-size bed upon request. Each room includes a desk, mini-bar, TV, free Wi-Fi, and telephone. Most rooms are located on the upper floors and offer views over Ingólfstorg Square. Each room has a private bathroom with a shower, while a shower-and-bathtub combination is available upon request. An extra bed or baby cot is available for an additional fee. Ideal for up to 3 guests.",
+      "is": "Superior Double/Twin herbergin eru að meðaltali 21,1 m². Í þeim eru tvö einbreið rúm sem hægt er að sameina í eitt king-size-rúm sé þess óskað. Í herbergjunum eru skrifborð, minibar, ókeypis Wi-Fi, sjónvarp og sími. Flest herbergin eru á efri hæðum hótelsins og bjóða upp á útsýni yfir Ingólfstorg. Öll herbergin eru með baðherbergi með sturtu en hægt er að óska eftir að fá sturtu/baðkar samsetningu. Hægt er að bæta við aukarúmi eða barnarúmi gegn aukagjaldi. Tilvalið fyrir allt að 3 gesti."
+     },
+     "img": {
+      "base": "assets/img/plaza/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-5",
+     "name": "Executive Double/Twin with a View",
+     "kicker": {
+      "en": "Top floor rooms",
+      "is": "Á efstu hæð"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "21.4",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Executive Double/Twin Rooms are located on the hotel’s top floor and offer views of Reykjavík city center. Averaging 21.4 m², they feature two single beds that can be combined into one king-size bed upon request. Amenities include a desk, minibar, TV, telephone, free Wi-Fi, bathrobes, slippers, toiletries and a Nespresso machine. Each room has a private bathroom with a shower. Guests have access to shared balconies, while rooms with private balconies are available upon request for an additional fee. A baby cot is also available for an extra fee. Ideal for 2 guests. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Executive Double/Twin herbergin eru staðsett á efstu hæð hótelsins og bjóða upp á útsýni yfir miðborg Reykjavíkur. Herbergin eru að meðaltali 21,4 m² og eru með tveimur einbreiðum rúmum sem hægt er að sameina í eitt king-size-rúm sé þess óskað. Í herbergjunum eru skrifborð, sjónvarp, sími, minibar, ókeypis Wi-Fi, baðsloppar, inniskór, hreinlætisvörur og Nespresso-kaffivél. Gestir hafa aðgang að sameiginlegum svölum en hægt er að óska eftir herbergi með einkasvölum gegn aukagjaldi. Barnarúm er einnig í boði gegn aukagjaldi. Tilvalið fyrir 2 gesti. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/plaza/room-5",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       864
+      ]
+     }
+    }
+   ],
+   "features": [
+    {
+     "kicker": {
+      "en": "Plaza bar",
+      "is": "Plaza bar"
+     },
+     "title": {
+      "en": "Happy Hour in the city center",
+      "is": "Happy Hour alla daga"
+     },
+     "text": {
+      "en": "Relax with drinks at Plaza Bar. Unwind in our cozy bar after a busy day. We're open daily until midnight, with Happy Hour from 4 to 6 PM. Enjoy discounted prices during Happy Hour: Gull beer on tap for 1100 ISK, Úlfur for 1200 ISK, and a glass of house wine for 1400 ISK.",
+      "is": "Á Plaza erum við með notalegan bar sem þar sem þú getur slakað á eftir annasaman dag. Það er opið daglega til miðnættis, með hamingjustund frá klukkan 16:00 - 18:00. Njóttu þess að fá þér drykk á góðu verði, við bjóðum upp á Gull á krana fyrir 1100 kr., Úlfur fyrir 1200 kr., og glas af víni fyrir 1400 kr."
+     },
+     "img": {
+      "base": "assets/img/plaza/f1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "VENUES",
+      "is": "Veislusalir"
+     },
+     "title": {
+      "en": "Host in the heart of Reykjavík",
+      "is": "Veisla í miðborginni"
+     },
+     "text": {
+      "en": "Bright, flexible venues with garden access. Plaza’s event spaces are ideal for both professional and social gatherings. Located in the city center, they feature large windows for natural light and direct access to a quiet garden. Catering options are available to suit every occasion, whether it’s a business meeting or a casual celebration.",
+      "is": "Veislusalirnir á Plaza er staðsettur á einstökum stað í hjarta borgarinnar. Salirnir eru bjartir og fallegir og bjóða upp á aðgengi út í afgirtan garð. Úrval veitinga er í boði með veislusölunum á Plaza."
+     },
+     "img": {
+      "base": "assets/img/plaza/f2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "nearby": [
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     1
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     4
+    ],
+    [
+     "Harpa",
+     "Harpa",
+     8
+    ],
+    [
+     "The Old Harbour",
+     "Gamla höfnin",
+     10
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     17
+    ]
+   ],
+   "others": [
+    [
+     "Þingholt Apartments",
+     "Þingholt Apartments",
+     6,
+     "thingholt-apartments"
+    ],
+    [
+     "Þingholt",
+     "Þingholt",
+     7,
+     "thingholt"
+    ],
+    [
+     "Arnarhvoll",
+     "Arnarhvoll",
+     9,
+     "arnarhvoll"
+    ]
+   ]
+  },
+  {
+   "id": "arnarhvoll",
+   "slug": "arnarhvoll",
+   "name": "Center Hotels Arnarhvoll",
+   "short": "Arnarhvoll",
+   "area": "harbour",
+   "band": "char",
+   "tone": "paper",
+   "address": "Ingólfsstræti 1, 101 Reykjavík",
+   "propid": 26687,
+   "opened": 2007,
+   "rooms_n": 104,
+   "geo": [
+    64.149164,
+    -21.930677
+   ],
+   "hero": {
+    "base": "assets/img/arnarhvoll/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/arnarhvoll/g1",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/arnarhvoll/g2",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/arnarhvoll/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "Vélstjóraskólinn, the engineering school, by Guðjón Samúelsson, 1933",
+    "is": "Vélstjóraskólinn, teiknaður af Guðjóni Samúelssyni, 1933"
+   },
+   "story": {
+    "en": "This harbourside building dates from 1933 and was designed by the renowned architect Guðjón Samúelsson. It was once the engineering school Vélstjóraskólinn, where Svanfríður’s father studied. On one side is the city; on the other, unobstructed views across the sea to Mount Esja. Today it’s Center Hotels Arnarhvoll, with 104 rooms, a spa and a top-floor lounge and bar where you can take in that view.",
+    "is": "Húsið við höfnina var byggt árið 1933 og var teiknað af hinum þekkta arkitekt Guðjóni Samúelssyni. Þar var áður Vélstjóraskólinn, þar sem faðir Svanfríðar stundaði nám. Á aðra hönd er miðborgin og á hina er óhindrað útsýni yfir sjóinn í átt að Esjunni. Á Center Hotels Arnarhvoll eru 104 herbergi, heilsulind og setustofa og bar á efstu hæð þar sem hægt er að njóta útsýnisins."
+   },
+   "lede": {
+    "en": "City Center Hotel with Rooftop Views",
+    "is": "Þar sem haf og hótel mætast"
+   },
+   "intro": {
+    "en": "Located in central Reykjavik near Harpa Concert Hall and the waterfront, Center Hotels Arnarhvoll offers some of the best views in the city. From the lobby to the rooms, everything feels welcoming and Scandi. The hotel’s rooftop SKÝ Bar is a must-see for guests and locals alike.",
+    "is": "Nálægðin við höfnina og dásamlegt útsýnið yfir Faxaflóann og fjöllin blá gera Arnarhvol að einstökum dvalarstað. Yfirbragð hótelsins er afar notalegt, allt frá gestamóttöku og til herbergjanna sem eru einstaklega þægileg. Svo er skyldumæting á SKÝ Bar fyrir þá sem kunna að meta góða og svalandi drykki. Og útsýnið – vorum við kannski búin að nefna það?"
+   },
+   "amenities": {
+    "en": [
+     "Bar",
+     "View",
+     "Free wifi",
+     "Spa",
+     "Balcony",
+     "Disabled access"
+    ],
+    "is": [
+     "Bar",
+     "Útsýni",
+     "Frítt WiFi",
+     "Heilsulind",
+     "Svalir",
+     "Hjólastólaaðgengi"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Deluxe Single",
+     "kicker": {
+      "en": "",
+      "is": ""
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "16.6",
+     "sleeps": null,
+     "desc": {
+      "en": "The Deluxe Single rooms have a 120 cm wide bed and have an average size of 16.6 m². Some of them offer stunning views of the sea and mountains, but they are available upon request only. Please note that extra beds and cribs are not available for this room type.",
+      "is": "Deluxe Single herbergin eru með 120 cm breið rúm. Stærð herbergjanna er að meðaltali 16,6 m². Sum herbergjanna bjóða upp á einstakt útsýni yfir Faxaflóann og hægt er að óska sérstaklega eftir slíku herbergi. Auka rúm og barnarúm eru því miður ekki í boði fyrir þessi herbergi."
+     },
+     "img": {
+      "base": "assets/img/arnarhvoll/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "",
+      "is": ""
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "19.5",
+     "sleeps": null,
+     "desc": {
+      "en": "The Standard Double/Twin rooms have an average size of 19.5 m². They can be configured with either Queen or King size beds or set up as two twin beds. Some rooms in this category come equipped with a bathtub, but their availability is on request only. A crib can be requested for this room type for an additional fee.",
+      "is": "Standard Double/Twin herbergin eru að meðaltali 19,5 m² að stærð. Rúmin í þeim eru ýmist í Queen eða King stærð sem hægt er að hafa samsett eða aðskilin. Baðkar er í sumum Standard Double/Twin herbergjum sem hægt er að óska sérstaklega eftir. Möguleiki er að bæta við barnarúmi í herbergin en það kostar aukalega."
+     },
+     "img": {
+      "base": "assets/img/arnarhvoll/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Deluxe Double/Twin",
+     "kicker": {
+      "en": "",
+      "is": ""
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "20.8",
+     "sleeps": null,
+     "desc": {
+      "en": "The Deluxe Double/Twin rooms can be configured with either Queen or King size beds or set up as two twin beds. These rooms have an average size of 20.8 m². Some rooms in this category include a bathtub, but they are available upon request only. A crib or an extra bed can be requested for this room type for an additional fee.",
+      "is": "Deluxe Double/Twin herbergin eru með annað hvort rúm í Queen eða King stærð og hægt er að hafa þau samsett eða aðskilin. Herbergin eru að meðaltali 20,8 m² að stærð. Það er sturta í öllum herbergjum en hægt er að óska sérstaklega eftir herbergi með baðkari. Möguleiki er að bæta við auka rúmi eða barnarúmi í herbergin en það kostar aukalega."
+     },
+     "img": {
+      "base": "assets/img/arnarhvoll/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Sea View Double/Twin",
+     "kicker": {
+      "en": "",
+      "is": "Sjávarútsýni"
+     },
+     "strap": {
+      "en": "",
+      "is": "Útsýni yfir höfnina"
+     },
+     "m2": "20.2",
+     "sleeps": null,
+     "desc": {
+      "en": "Our Sea View Double/Twin rooms offer a beautiful panorama of the sea and the surrounding mountain range. These rooms are furnished with either a Queen or King size bed and can also be configured as two twin beds upon request. On average, these rooms have a size of 20.2 m². A crib or an extra bed can be requested for this room type for an additional fee.",
+      "is": "Sea View Double/Twin herbergin hafa einstakt útsýni í átt að Hörpu tónlistarhúsi og Faxaflóa. Herbergin eru ýmist með rúm í Queen eða King stærð sem hægt er að hafa samsett eða aðskilin. Meðalstærð herbergjanna er 20,2 m². Möguleiki er að bæta við auka rúmi eða barnarúmi í herbergin en það kostar aukalega."
+     },
+     "img": {
+      "base": "assets/img/arnarhvoll/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-5",
+     "name": "Sea View Deluxe",
+     "kicker": {
+      "en": "Sea view deluxe",
+      "is": "Sea view hornherbergi"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "23.6",
+     "sleeps": null,
+     "desc": {
+      "en": "The Sea View Deluxe King rooms are the most luxurious at our hotel. These corner rooms offer spectacular views through dual-aspect, floor-to-ceiling windows, showcasing the iconic Harpa music hall, the ocean, and the surrounding mountain range. With an average size of 23.6 m², these rooms feature a King size bed and a bathtub. In-room amenities include bathrobes, slippers, toiletries, and a Nespresso coffee machine and access to the spa is complimentary for guests staying in these rooms. A crib can be requested for this room type for an additional fee. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Sea View Deluxe King herbergin eru þau herbergi sem búa yfir mestu þægindunum á hótelinu. Herbergin eru staðsett á horni hótelsins og frá gluggum sem ná frá gólfi upp í loft er einstakt útsýni yfir Hörpu tónlistarhús og Faxaflóann. Meðalstærð herbergjanna er 23,6 m². Rúmin eru í King size og baðkar er á öllum herbergjunum. Að auki eru baðsloppar, inniskór, hreinlætisvörur og Nespresso kaffivél. Aðgangur í spa fylgir með og hægt er að bæta við barnarúmi gegn auka gjaldi. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/arnarhvoll/room-5",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [
+    {
+     "kicker": {
+      "en": "SKÝ BAR",
+      "is": "SKÝ BAR"
+     },
+     "title": {
+      "en": "Rooftop drinks & views",
+      "is": "Skál fyrir útsýninu!"
+     },
+     "text": {
+      "en": "Drinks with a view at SKÝ Bar. On the 8th floor of Arnarhvoll, SKÝ Bar offers panoramic views over Faxaflói Bay and the surrounding mountains. Whether you're stopping by for a casual cocktail or catching the sunset, the setting is unforgettable. Enjoy Happy Hour daily from 4–6 PM and again from 8–11 PM, featuring special prices on drinks. Come for the views, stay for the atmosphere.",
+      "is": "SKÝ fangar athygli þína áður en þú sest, útsýnið á áttundu hæð við hafið er bara þannig, þú sérð yfir Skálafell, Móskarðshjúka, Esjuna, Akrafjall, Hafnarfjall, Snæfellsjökul og Faxaflóann þar á milli. Hinumegin ert þú að njóta ljúffengra drykkja. Happy Hour er á SKÝ alla daga frá 16 - 18."
+     },
+     "img": {
+      "base": "assets/img/arnarhvoll/f1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "ARNARHVOLL SPA",
+      "is": "Heilsulindin okkar"
+     },
+     "title": {
+      "en": "Wellness by the sea",
+      "is": "Slepptu þér og slakaðu svo á"
+     },
+     "text": {
+      "en": "If you haven’t been in a hot tub, you haven’t experienced Iceland. Arnarhvoll Wellness offers a peaceful retreat with a secluded hot tub, sauna and relaxation area – the perfect place to unwind after a day exploring Reykjavík. The wellness area is exclusively available to guests staying at Center Hotels Arnarhvoll. Drinks are available to enjoy during your visit, and the wellness area is open to adults.",
+      "is": "Slakaðu á í heitum potti heilsulindarinnar á Arnarhvol og láttu þreytuna líða úr þér, eða njóttu þess að gleyma þér í gufubaðinu. Heilsulindin er eingöngu aðgengileg gestum sem dvelja á Center Hotels Arnarhvoli og er ætluð fullorðnum. Einnig er hægt að panta drykki og njóta þeirra á meðan á heimsókninni stendur."
+     },
+     "img": {
+      "base": "assets/img/arnarhvoll/f2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "nearby": [
+    [
+     "Harpa",
+     "Harpa",
+     3
+    ],
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     8
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     11
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     13
+    ],
+    [
+     "The Old Harbour",
+     "Gamla höfnin",
+     16
+    ]
+   ],
+   "others": [
+    [
+     "Klöpp",
+     "Klöpp",
+     5,
+     "klopp"
+    ],
+    [
+     "Þingholt",
+     "Þingholt",
+     6,
+     "thingholt"
+    ],
+    [
+     "Þingholt Apartments",
+     "Þingholt Apartments",
+     6,
+     "thingholt-apartments"
+    ]
+   ]
+  },
+  {
+   "id": "thingholt",
+   "slug": "thingholt",
+   "name": "Þingholt by Center Hotels",
+   "short": "Þingholt",
+   "area": "thingholt",
+   "band": "sage",
+   "tone": "ink",
+   "address": "Þingholtsstræti 3–5, 101 Reykjavík",
+   "propid": 26686,
+   "opened": 2006,
+   "rooms_n": 52,
+   "geo": [
+    64.14629,
+    -21.934537
+   ],
+   "hero": {
+    "base": "assets/img/thingholt/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/thingholt/g0",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/thingholt/g1",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/thingholt/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "The Ísafold printing house, 1942 to 1994",
+    "is": "Prentsmiðjan Ísafold, 1942 til 1994"
+   },
+   "story": {
+    "en": "Hotel number three came with a story we couldn’t resist. From 1942 to 1994, the building was the Ísafold printing house, which also printed Morgunblaðið, Iceland’s national newspaper. The building sits on Þingholtsstræti, one of the oldest streets in the city center. Instead of following the style of our first two hotels, we did something new and made Þingholt a boutique hotel. It has 52 stylish rooms, each with its own identity.",
+    "is": "Þriðja hótelið kom með sögu sem við gátum ekki staðist. Frá 1942 til 1994 var þar prentsmiðjan Ísafold, sem prentaði meðal annars Morgunblaðið. Byggingin stendur við Þingholtsstræti, eina elstu götu miðbæjarins. Í stað þess að fylgja stíl fyrstu tveggja hótelanna fórum við nýja leið og gerðum Þingholt að boutique-hóteli. Þar eru 52 glæsileg herbergi, hvert með sinn eigin svip."
+   },
+   "lede": {
+    "en": "Boutique hotel in Reykjavík",
+    "is": "Þar sem miðbæjarhjartað slær"
+   },
+   "intro": {
+    "en": "Þingholt is a boutique hotel in central Reykjavik, located just off Laugavegur, the city’s main shopping street. With an intimate atmosphere, spa facilities, and a cozy bar, it’s a great choice for travelers looking for charm and comfort in the heart of the city.",
+    "is": "Þingholt by Center Hotels er boutique hótel staðsett í hjarta borgarinnar. Og talandi um hjarta; Þingholtið okkar er kannski ekki það stærsta í bransanum, en er hótel með risastórt hjarta. Persónulegt, nýmóðins og eins miðsvæðis og hótel verða. Svo er upplagt að trítla yfir á barinn okkar og smakka á því allra besta sem í boði er í vínheiminum."
+   },
+   "amenities": {
+    "en": [
+     "Breakfast",
+     "Bar",
+     "Spa",
+     "Gym",
+     "Meeting room"
+    ],
+    "is": [
+     "Morgunverðahlaðborð",
+     "Bar",
+     "Heilsulind",
+     "Heilsurækt",
+     "Fundarsalur"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "City choice",
+      "is": "Borgarval"
+     },
+     "strap": {
+      "en": "Little city gem",
+      "is": "Lítil perla í borginni"
+     },
+     "m2": "18.6",
+     "sleeps": null,
+     "desc": {
+      "en": "The Standard double/twin rooms are beautifully designed and average 18.6 m² in size. All of the rooms include one queen size bed or two seperate beds, and each room has a shower. Cribs can be requested for an additional fee but extra beds cannot be added to this room type.",
+      "is": "Standard double/twin herbergin eru fallega innréttuð og eru að meðaltali 18,6 m² að stærð. Öll herbergin eru með queen size rúmi eða tveimur einstaklingsrúmum, og hafa öll herbergin sturtu. Hægt er að bæta við barnarúmi gegn gjaldi en því miður er auka rúm ekki í boði fyrir þessa herbergistegund."
+     },
+     "img": {
+      "base": "assets/img/thingholt/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Deluxe Double/Twin",
+     "kicker": {
+      "en": "Beautifully decorated",
+      "is": "Fallega innréttuð"
+     },
+     "strap": {
+      "en": "Spacious rooms",
+      "is": "Rúmgóð herbergi"
+     },
+     "m2": "23",
+     "sleeps": null,
+     "desc": {
+      "en": "The Deluxe double/twin rooms come with either two separate beds or one king size bed. The Deluxe rooms are at an average of 23 m² in size. The rooms come with a shower and a bathtub is available upon request. An extra bed, sofa or a crib can be requested for an additional fee.",
+      "is": "Deluxe double/twin herbergin eru að meðaltali 23 m² að stærð. Hægt er að velja á milli þess að fá tvö aðskilin rúm eða eitt King size rúm. Í herbergjunum er sturta, en hægt er að óska eftir baðkari. Möguleiki er að bæta við auka rúmi, sófa eða barnarúmi en það kostar aukalega."
+     },
+     "img": {
+      "base": "assets/img/thingholt/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Junior Suite",
+     "kicker": {
+      "en": "Space and luxury",
+      "is": "Vítt og breitt"
+     },
+     "strap": {
+      "en": "Free access to the spa",
+      "is": "Ókeypis aðgangur að heilsulindinni"
+     },
+     "m2": "27.5",
+     "sleeps": null,
+     "desc": {
+      "en": "The spacious and luxurious Junior suites offer a comfortable stay with an average of 27.5 m² in size. All rooms have either a king size bed or two single beds, these rooms also have a bathtub, a sofa and a Nespresso coffee machine. Complimentary spa access, along with bathrobes and slippers, are included with this room type. Cribs can be requested for an additional fee.",
+      "is": "Junior svíturnar er rúmgóðar og fallega innréttaðar, og að meðaltali 27,5 m² að stærð. Öll herbergin eru með annaðhvort king size rúm eða tvö aðskilin einstaklingsrúm, og í þessum herbergjum er einnig baðkar, sófi og Nespresso kaffivél. Ókeypis aðgangur að Ísafold Spa, ásamt baðsloppum og inniskóm, er innifalinn með þessari herbergistegund. Hægt er að bæta við barnarúmi gegn auka gjaldi."
+     },
+     "img": {
+      "base": "assets/img/thingholt/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Loft Suite",
+     "kicker": {
+      "en": "Stay in style",
+      "is": "Dveldu með stæl"
+     },
+     "strap": {
+      "en": "Cosmopolitan vibe",
+      "is": "Lúxus í loftsvítu"
+     },
+     "m2": "32.3",
+     "sleeps": null,
+     "desc": {
+      "en": "The Loft suites offer a luxurious experience for those traveling in style. Split over two levels the suites feature luxurious king-size beds with sofa feather bedding. The suite has a double-height lounge area with a white leather sofa and large floor-to-ceiling windows. Each suite is an average of 32.3 m² in size. Access to Ísafold Spa is included along with bathrobes, slippers, and toiletries in the room as well as a Nespresso coffee machine. A crib can be requested and the sofa can be turned into a sleeping sofa for an additional fee. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Loft svítan hentar þeim sem kjósa að dvelja á hóteli með stæl. Svítan er einstaklega falleg og hvergi er sparað í hönnun eða innanstokksmunum. Svítan breiðir úr sér á tvær hæðir með king size rúmi á einni hæð og hvítum leðursófa á annarri. Gluggarnir ná frá gólfi upp í loft. Svítan er að meðaltali 32,3 m² að stærð. Aðgangur að Ísafold SPA fylgir með loft svítunni á meðan á dvöl stendur og inni á herbergjunum eru sloppar, inniskór og hreinlætisvörur ásamt Nespresso kaffivél. Hægt er að fá barnarúm sé þess óskað, ennig er hægt að breyta sófanum í svefnsófa gegn aukagjaldi. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/thingholt/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [
+    {
+     "kicker": {
+      "en": "Þingholt Lounge & Bar",
+      "is": "Þingholt Lounge & Bar"
+     },
+     "title": {
+      "en": "Sips in the city",
+      "is": "Sígildir sopar með nýjum blæ"
+     },
+     "text": {
+      "en": "Raise a glass in the stylish setting of Þingholt Lounge & Bar. With a wine list hand-picked by the team and cocktails that mix timeless classics with local twists, it’s the perfect downtown spot for a quiet drink or a cozy nightcap.",
+      "is": "Notalegheit í öllu sínu veldi er að finna á Þingholt Lounge & Bar. Sérvalinn vínlisti, klassískir kokteilar og drykkir að hætti hússins. Hvað meira er hægt að óska sér?"
+     },
+     "img": {
+      "base": "assets/img/thingholt/f1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "Þingholt Spa",
+      "is": "Þingholt Spa"
+     },
+     "title": {
+      "en": "Cozy spa hideaway",
+      "is": "Slepptu þér & slakaðu svo á"
+     },
+     "text": {
+      "en": "Relax and recharge at Þingholt Spa, where you’ll find a large hot tub. Massage therapies, a large hot tub, and a rainwater shower. A visit to the Þingholt Spa is the perfect way to wind down after a jam-packed day. Weights and cardio machines are also available if working out is more your thing.",
+      "is": "Nudd og rúmgóður heitur pottur eftir annasaman dag. Hvernig hljómar það? Einmitt. Ef þú vilt skipta um gír og taka á því í ræktinni, þá er það líka í boði. Allt eftir þínum takti."
+     },
+     "img": {
+      "base": "assets/img/thingholt/f2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       864
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "Þingholt meeting room",
+      "is": "Þingholt fundarsalur"
+     },
+     "title": {
+      "en": "Meetings in Reykjavík",
+      "is": "Skipuleggðu góðan fund"
+     },
+     "text": {
+      "en": "Need a quiet spot for a productive session? Þingholt offers a sleek, fully equipped meeting room with everything you need, including a projector, stationery, and complimentary WiFi. Step out onto the private patio to refresh your mind between sessions.",
+      "is": "Frábær fundaraðstaða fyrir þá sem vilja halda smærri fundi. Fyrsta flokks tækjabúnaður, ljúffengar veitingar og vinalegt andrúmsloft."
+     },
+     "img": {
+      "base": "assets/img/thingholt/f3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "nearby": [
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     6
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     6
+    ],
+    [
+     "Harpa",
+     "Harpa",
+     7
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     10
+    ],
+    [
+     "Sundhöllin pool",
+     "Sundhöllin",
+     14
+    ]
+   ],
+   "others": [
+    [
+     "Þingholt Apartments",
+     "Þingholt Apartments",
+     1,
+     "thingholt-apartments"
+    ],
+    [
+     "Skjaldbreið",
+     "Skjaldbreið",
+     3,
+     "skjaldbreid"
+    ],
+    [
+     "Klöpp",
+     "Klöpp",
+     4,
+     "klopp"
+    ]
+   ]
+  },
+  {
+   "id": "thingholt-apartments",
+   "slug": "thingholt-apartments",
+   "name": "Þingholt Apartments",
+   "short": "Þingholt Apartments",
+   "area": "thingholt",
+   "band": "sage",
+   "tone": "ink",
+   "address": "Þingholtsstræti 2–4, 101 Reykjavík",
+   "propid": 28853,
+   "opened": 2023,
+   "rooms_n": 31,
+   "geo": [
+    64.146616,
+    -21.934753
+   ],
+   "hero": {
+    "base": "assets/img/thingholt-apartments/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/thingholt-apartments/g1",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/thingholt-apartments/g2",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/thingholt-apartments/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "Family member number nine: 31 hotel apartments",
+    "is": "Fjölskyldumeðlimur númer níu: 31 hótelíbúð"
+   },
+   "story": {
+    "en": "Over the years, we kept hearing the same question. Families traveling with kids, friends exploring Iceland together: they all wanted to stay together, not split across separate rooms down the corridor. So we listened. Þingholt Apartments offers 31 spacious hotel apartments for up to six guests, on Þingholtsstræti, just off Laugavegur. Guests can cook breakfast together, plan the day’s adventures, then step straight out into downtown Reykjavík.",
+    "is": "Í gegnum árin höfum við fundið að fjölskyldur með börn og vinahópar vilja vera saman í einu rými, og við hlustuðum. Þingholt Apartments er íbúðahótel með 31 rúmgóðri hótelíbúð fyrir allt að sex gesti, við Þingholtsstræti, rétt við Laugaveg. Þar er hægt að elda morgunmat saman og skipuleggja ævintýri dagsins í rúmgóðri íbúð með allt til alls."
+   },
+   "lede": {
+    "en": "Stylish apartments with hotel comfort",
+    "is": "Íbúðahótel í miðborginni"
+   },
+   "intro": {
+    "en": "Þingholt Apartments offer a mix of comfort and flexibility, accommodating up to six guests. Located just off Laugavegur, these Reykjavík hotel apartments are perfect for families or small groups of guests who want the convenience of staying in an apartment with the service of a hotel.",
+    "is": "Þingholt Apartments eru fallegar og vel skipulagðar hótelíbúðir með sem rúma allt að sex gesti á þægilegan máta. Hótelíbúðirnar eru staðsettar á Þingholtsstræti, á hliðargötu við Laugaveg og eru því á einstaklega góðum stað ef njóta á alls þess sem miðborg Reykjavíkur býður upp á."
+   },
+   "amenities": {
+    "en": [
+     "Good location",
+     "Free WiFi",
+     "Kitchenette",
+     "Sofa",
+     "TV",
+     "Washing machine"
+    ],
+    "is": [
+     "Góð staðsetning",
+     "Frítt WiFi",
+     "Sófi",
+     "Eldhúsaðstaða",
+     "Sjónvarp",
+     "Þvottavél"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Studio Apartment",
+     "kicker": {
+      "en": "Stay local",
+      "is": "Í hjarta borgarinnar"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "20",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Studio Apartments offer a comfortable and convenient stay in the heart of Reykjavík, averaging 20 m² in size. Each apartment features a double bed, a private bathroom, a dishwasher, a refrigerator, a smart TV, and free Wi-Fi. Ideal for up to 2 guests. Cribs can be added on request for an additional fee, while extra beds are not available for this apartment type. Complimentary laundry service for one bag is included, as washing machines are not available in the apartments. Please note that the apartments are in a multi-unit building, and layouts and interior designs may vary slightly between apartments.",
+      "is": "Studio Apartments bjóða upp á þægilega og hentuga dvöl í hjarta Reykjavíkur. Íbúðirnar eru að meðaltali 20 m² að stærð og eru búnar hjónarúmi, sér baðherbergi, uppþvottavél, ísskáp, sjónvarpi og ókeypis þráðlausu interneti. Íbúðirnar henta vel fyrir tvo gesti. Hægt er að bæta við ungbarnarúmi gegn aukagjaldi, en ekki er hægt að bæta við aukarúmi í þessa íbúðartegund. Engin þvottavél er í íbúðunum, en við bjóðum upp á þvott einu sinni á meðan dvöl stendur yfir. Vinsamlegast athugið að íbúðirnar geta verið örlítið ólíkar í lögun, útliti og skipulagi."
+     },
+     "img": {
+      "base": "assets/img/thingholt-apartments/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "One Bedroom Apartment",
+     "kicker": {
+      "en": "City living",
+      "is": "Rými til að njóta"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "23",
+     "sleeps": 4,
+     "desc": {
+      "en": "The One Bedroom Apartments offer a comfortable and convenient stay in the heart of Reykjavík, averaging 23 m² in size. Each apartment features one double bed, a private bathroom, and a fully equipped kitchen with a refrigerator, dishwasher, and washing machine. Guests can also enjoy a smart TV and free Wi-Fi. Sofa beds can be added upon request and for an additional fee to accommodate up to two extra guests, making the apartment ideal for up to 4 guests. As these are multi-unit apartments, slight variations in layout and interior design may occur between apartments.",
+      "is": "One-bedroom íbúðirnar bjóða upp á þægilega og hentuga dvöl í hjarta Reykjavíkur. Hver íbúð er að meðaltali 23 m² að stærð. Í þeim er eitt hjónarúm, sér baðherbergi og fullbúið eldhús með ísskáp, uppþvottavél og þvottavél ásamt sjónvarpi og ókeypis þráðlausu interneti. Hægt er að óska eftir svefnsófa fyrir allt að tvo aukagesti gegn aukagjaldi, sem gerir íbúðina hentuga fyrir allt að 4 gesti. Íbúðirnar eru mismunandi að stærð og lögun og því getur verið smávægilegur munur á útliti þeirra."
+     },
+     "img": {
+      "base": "assets/img/thingholt-apartments/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Two Bedroom Apartment",
+     "kicker": {
+      "en": "Space for more",
+      "is": "Nægt pláss"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "50",
+     "sleeps": 6,
+     "desc": {
+      "en": "The Two-Bedroom Apartments offer a spacious and comfortable stay in the heart of Reykjavík, averaging 50 m². Each apartment features two double beds, a private bathroom, and a fully equipped kitchen with a refrigerator. Guests can also enjoy a smart TV and free Wi-Fi. Apartments with washing machines and dishwashers are available upon request. Sofa beds can be added upon request and for an additional fee to accommodate up to two extra guests, making these apartments ideal for up to 6 guests. Please note that the apartments are located in multi-unit buildings, and slight variations in layout and interior design may occur between apartments.",
+      "is": "Two Bedroom íbúðirnar bjóða upp á rúmgóða og þægilega dvöl í hjarta Reykjavíkur. Íbúðirnar eru að meðaltali 50 m² að stærð og í þeim eru tvö hjónarúm, sér baðherbergi og fullbúið eldhús með ísskáp. Sjónvarp og ókeypis þráðlaust internet. Hægt er að óska eftir íbúð með uppþvottavél og þvottavél. Einnig er hægt að bæta við svefnsófa gegn aukagjaldi fyrir allt að tvo aukagesti, sem gerir íbúðirnar hentugar fyrir allt að 6 gesti. Íbúðirnar eru mismunandi að stærð og lögun og því getur verið smávægilegur munur á útliti þeirra."
+     },
+     "img": {
+      "base": "assets/img/thingholt-apartments/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Family Apartment",
+     "kicker": {
+      "en": "Family Comfort",
+      "is": "Fjölskyldudvöl"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "32",
+     "sleeps": 4,
+     "desc": {
+      "en": "The Family Apartments offer a comfortable, convenient stay in the heart of Reykjavík, with an average size of 32 m². Each apartment features one double bed, one bathroom, and a fully equipped kitchenette with a refrigerator and dishwasher, making it ideal for a family with two children or for three adults. Sofa beds can be added upon request for an additional fee to accommodate up to two extra guests, making these apartments ideal for up to 4 guests. Cribs are also available upon request for an additional fee. Please note that these are multi-unit apartments, and layouts and interior designs may vary slightly between them. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Fjölskylduíbúðirnar bjóða upp á þægilega og hentuga dvöl í hjarta Reykjavíkur. Íbúðirnar eru að meðaltali 32 m² að stærð. Í hverri íbúð er eitt hjónarúm, baðherbergi og fullbúinn eldhúskrókur með ísskáp og uppþvottavél, sem gerir íbúðirnar tilvaldar fyrir fjölskyldu með tvö börn eða þrjá fullorðna gesti. Í íbúðunum er sjónvarp, sturta og ókeypis þráðlaust internet. Þvottavél er til staðar í sumum íbúðum en þvottaþjónusta í öðrum. Hægt er bæta svefnsófa við gegn auka gjaldi sem gerir íbúðirnar tilvaldar fyrir allt að fjóra gesti. Hægt er að bæta við ungbarnarúmi gegn aukagjaldi. Íbúðirnar eru mismunandi að stærð og lögun og því getur verið smávægilegur munur á útliti þeirra. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/thingholt-apartments/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [
+    {
+     "kicker": {
+      "en": "Hotel comfort",
+      "is": "Hótelþægindi"
+     },
+     "title": {
+      "en": "While enjoying your apartment stay",
+      "is": "Á meðan dvalið er í íbúðunum"
+     },
+     "text": {
+      "en": "Þingholt, the boutique hotel by Center Hotels, sits right across the street, giving apartment guests easy access to a range of hotel-style perks. Guests who book directly can enjoy the daily breakfast buffet at the hotel. Access to the relaxing spa can also be purchased — a perfect way to unwind after a day exploring the city. For those in the mood for a drink, the hotel bar is open every day and offers a cheerful happy hour.",
+      "is": "Boutique-hótelið okkar; Þingholt, er staðsett beint handan götunnar frá íbúðunum og býður gestum á Þingholt Apartments auðveldan aðgang að ýmsum þægindum hótelsins. Morgunverður sem framreiddur er á Þingholti er innifalinn fyrir gesti sem bóka beint, og hægt er að kaupa aðgang að heilsulindinni á hótelinu sem er fullkomin leið til að slaka á eftir dag í borginni. Á hótelinu er einnig notalegur bar þar sem gestir íbúðanna geta notið drykkja í þægilegu umhverfi."
+     },
+     "img": {
+      "base": "assets/img/thingholt-apartments/f1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "Breakfast baskets",
+      "is": "Morgunverðarkörfur"
+     },
+     "title": {
+      "en": "Fresh, local goods delivered to your door",
+      "is": "Vandlega valdar vörur fyrir þig"
+     },
+     "text": {
+      "en": "Start your day the local way. Arriving late or just unsure where to shop for groceries while you're staying with us? How about ordering our grocery package so you don't have to go shopping when you arrive, and you can have something to snack on waiting for you in your apartment.",
+      "is": "Ertu seint á ferðinni eða hefur hreinlega ekki tíma til að versla í matinn á meðan þú dvelur hjá okkur? Njóttu þægindanna sem morgunverðarkörfurnar okkar bjóða upp á, fullkomin lausn fyrir þá sem vilja slaka á við komu án þess að þurfa að hugsa um innkaup. Í körfunni finnur þú allt sem þarf til að byrja daginn rétt, frá fersku brauði til ávaxta."
+     },
+     "img": {
+      "base": "assets/img/thingholt-apartments/f2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "nearby": [
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     6
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     6
+    ],
+    [
+     "Harpa",
+     "Harpa",
+     7
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     11
+    ],
+    [
+     "Sundhöllin pool",
+     "Sundhöllin",
+     14
+    ]
+   ],
+   "others": [
+    [
+     "Þingholt",
+     "Þingholt",
+     1,
+     "thingholt"
+    ],
+    [
+     "Skjaldbreið",
+     "Skjaldbreið",
+     3,
+     "skjaldbreid"
+    ],
+    [
+     "Klöpp",
+     "Klöpp",
+     4,
+     "klopp"
+    ]
+   ]
+  },
+  {
+   "id": "skjaldbreid",
+   "slug": "skjaldbreid",
+   "name": "Center Hotels Skjaldbreið",
+   "short": "Skjaldbreið",
+   "area": "laugavegur",
+   "band": "night",
+   "tone": "paper",
+   "address": "Laugavegur 16, 101 Reykjavík",
+   "propid": 26666,
+   "opened": 1998,
+   "rooms_n": 33,
+   "geo": [
+    64.145875,
+    -21.930658
+   ],
+   "hero": {
+    "base": "assets/img/skjaldbreid/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/skjaldbreid/g0",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/skjaldbreid/g2",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/skjaldbreid/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "Originally a pharmacy, where the pharmacist lived, worked and made medicines",
+    "is": "Upphaflega apótek þar sem lyfsalinn bjó, starfaði og bjó til lyf"
+   },
+   "story": {
+    "en": "Four years later, we bought our first hotel: Skjaldbreið on Laugavegur, Reykjavík’s main shopping street. The stately building was originally a pharmacy, where the pharmacist lived, worked and made medicines. Turning it into a 33-room hotel took serious work. While removing a broken window, Kristófer nearly cut off his hand. Luckily, Svanfríður knew a specialist nerve doctor, who performed groundbreaking surgery on his arm. Kristófer was back at work the next day. We really did work our fingers to the bone to open Skjaldbreið. Literally.",
+    "is": "Fjórum árum síðar keyptum við fyrsta hótelið okkar, Hótel Skjaldbreið við Laugaveg, aðalverslunargötu Reykjavíkur. Þetta virðulega hús var upphaflega apótek þar sem lyfsalinn bjó, starfaði og bjó til lyf. Það kostaði mikla vinnu að breyta húsinu í 33 herbergja hótel. Þegar Kristófer var að fjarlægja brotinn glugga munaði minnstu að hann missti höndina. Sem betur fer þekkti Svanfríður sérfræðing í taugalækningum sem gerði tímamótaaðgerð á handleggnum. Kristófer var mættur aftur til vinnu daginn eftir. Það má því með sanni segja að við höfum unnið hörðum höndum við að opna Skjaldbreið. Bókstaflega."
+   },
+   "lede": {
+    "en": "Historic Reykjavík hotel with charm",
+    "is": "Búðu á besta stað"
+   },
+   "intro": {
+    "en": "Skjaldbreið is set in one of Reykjavik’s oldest and most striking buildings on Laugavegur. With its small size and warm hospitality, this Reykjavík hotel makes every guest feel at home while offering easy access to downtown Reykjavik.",
+    "is": "Center Hotels Skjaldbreið er staðsett í sögufrægu og virðulegu húsi á horni Laugavegar og Veghúsastígs. Þar var um langt skeið starfrækt apótek og er óhætt að segja að enn leiki hressandi og bætandi straumar um húsið. Herbergin eru 33 og á Skjaldbreið ríkir einstaklega heimilislegur og persónulegur andi."
+   },
+   "amenities": {
+    "en": [
+     "Free WiFi",
+     "Breakfast",
+     "24 hour front desk"
+    ],
+    "is": [
+     "Frítt WiFi",
+     "Morgunverður",
+     "24 klst móttaka"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Standard Single",
+     "kicker": {
+      "en": "Single in the city",
+      "is": "Einstakur kostur"
+     },
+     "strap": {
+      "en": "All the essentials",
+      "is": "Allt sem þú þarft"
+     },
+     "m2": "13",
+     "sleeps": null,
+     "desc": {
+      "en": "The Standard Single rooms, averaging 13 m² in size, feature a comfortable 90 cm bed. Each room is equipped with a shower and all the essentials to ensure a pleasant and comfortable stay. Additionally, some rooms offer stunning views of the city center. Extra bed and crib can not be fitted in these rooms.",
+      "is": "Standard Single herbergin, sem eru að meðaltali 13 m² að stærð, bjóða upp á þægileg 90 cm breið rúm. Hvert herbergi er búið sturtu og öllum þeim nauðsynlegu þægindum sem þarf til að gera dvölina á hótelinu bæði ánægjulega og þægilega. Sum herbergjanna bjóða einnig upp á útsýni yfir miðborgina. Auka rúm og barnarúm eru því miður ekki í boði fyrir þessi herbergi."
+     },
+     "img": {
+      "base": "assets/img/skjaldbreid/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "Right in the center",
+      "is": "Right in the center"
+     },
+     "strap": {
+      "en": "Queen sized bed",
+      "is": "Queen sized bed"
+     },
+     "m2": "17",
+     "sleeps": null,
+     "desc": {
+      "en": "The Standard Double/Twin rooms offer the flexibility of either a Queen or a King size bed, which can be arranged as two separate beds upon request. These rooms, with an average size of 17 m², are equipped with a shower and all the essentials needed for a comfortable hotel stay. Extra bed and crib can not be fitted in these rooms.",
+      "is": "Í Standard Double/Twin herbergjunum eru rúm sem eru annaðhvort af Queen- eða King-stærð sem hægt er að aðskilja ef óskað er eftir því. Herbergin, sem að meðaltali eru 17 m² að stærð, eru öll vel búin með sturtu og öðrum þægindum sem einkenna gæða hótelherbergi. Auka rúm og barnarúm eru því miður ekki í boði fyrir þessi herbergi."
+     },
+     "img": {
+      "base": "assets/img/skjaldbreid/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Superior Single",
+     "kicker": {
+      "en": "Your own space",
+      "is": "Þitt eigið athvarf"
+     },
+     "strap": {
+      "en": "Superior in the city",
+      "is": "Súper í borginni"
+     },
+     "m2": "15",
+     "sleeps": null,
+     "desc": {
+      "en": "The Superior Single rooms are spacious and bright, averaging 15 m² in size, and feature either 120 cm or 140 cm beds. Each room is equipped with a shower and all the essential amenities you'd expect in a hotel. Extra bed and crib can not be fitted in these rooms.",
+      "is": "Superior Single herbergin eru rúmgóð og björt, með meðalstærð upp á 15 m². Þau eru búin rúmum sem eru annaðhvort 90 eða 120 cm á breidd. Öll herbergin eru með sturtu og öllum þeim nauðsynlegu þægindum fyrir góða dvöl á hóteli. Auka rúm og barnarúm eru því miður ekki í boði fyrir þessi herbergi."
+     },
+     "img": {
+      "base": "assets/img/skjaldbreid/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Superior Double/Twin",
+     "kicker": {
+      "en": "City center views",
+      "is": "Útsýni yfir borgina"
+     },
+     "strap": {
+      "en": "Spacious and bright",
+      "is": "Fallegt og bjart"
+     },
+     "m2": "18",
+     "sleeps": null,
+     "desc": {
+      "en": "The Superior Double/Twin rooms are equipped with a King size bed, which can be separated into two individual beds upon request. With an average size of 18 m² each room offers plenty of space to relax and all of them include a bathtub/shower combination. Some rooms offer a view of the city center. Additionally, a crib or an extra bed is available for these rooms for an extra fee. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Superior Double/Twin herbergin eru að meðaltali 18 m² að stærð sem veitir nægt rými til þess að slaka á og njóta. Herbergin eru öll með King size rúm sem hægt er að aðskilja í tvö einstaklingsrúm sé þess óskað. Öll herbergin búa að því að hafa baðkar og sturtu samsetningu og sum herbergjanna hafa útsýni yfir miðborgina. Möguleiki er að bæta við barnarúmi eða auka rúmi í herbergin gegn auka gjaldi. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/skjaldbreid/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [],
+   "nearby": [
+    [
+     "Harpa",
+     "Harpa",
+     8
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     8
+    ],
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     9
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     9
+    ],
+    [
+     "Sundhöllin pool",
+     "Sundhöllin",
+     11
+    ]
+   ],
+   "others": [
+    [
+     "Klöpp",
+     "Klöpp",
+     1,
+     "klopp"
+    ],
+    [
+     "Þingholt",
+     "Þingholt",
+     3,
+     "thingholt"
+    ],
+    [
+     "Þingholt Apartments",
+     "Þingholt Apartments",
+     3,
+     "thingholt-apartments"
+    ]
+   ]
+  },
+  {
+   "id": "klopp",
+   "slug": "klopp",
+   "name": "Center Hotels Klöpp",
+   "short": "Klöpp",
+   "area": "laugavegur",
+   "band": "night",
+   "tone": "paper",
+   "address": "Klapparstígur 26, 101 Reykjavík",
+   "propid": 26685,
+   "opened": 2001,
+   "rooms_n": 46,
+   "geo": [
+    64.146208,
+    -21.929147
+   ],
+   "hero": {
+    "base": "assets/img/klopp/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/klopp/g1",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "The former home of RÚV, the national broadcaster",
+    "is": "Húsnæði sem áður hýsti Ríkisútvarpið"
+   },
+   "story": {
+    "en": "Our second hotel, Klöpp, opened in the former home of RÚV, Iceland’s national public broadcaster. A building that once brought the news to the nation became a 46-room hotel, a few minutes’ walk from Skjaldbreið. With two hotels in the city center, we gave them a shared name: Miðbæjarhótel, or Center Hotels. The idea of a group of hotels all in the heart of Reykjavík was born.",
+    "is": "Annað hótelið okkar, Klöpp, opnaði í húsnæði sem áður hýsti Ríkisútvarpið. Húsið sem eitt sinn flutti þjóðinni fréttir varð að 46 herbergja hóteli, í nokkurra mínútna göngufæri frá Skjaldbreið. Nú vorum við komin með tvö hótel í miðbænum og gáfum þeim sameiginlegt nafn: Miðbæjarhótel, eða Center Hotels. Þar með kviknaði hugmyndin að hótelkeðju í hjarta Reykjavíkur."
+   },
+   "lede": {
+    "en": "Cozy base for Reykjavík adventures",
+    "is": "Aðlaðandi og þægilegt"
+   },
+   "intro": {
+    "en": "If staying in the center of the action is your thing, Center Hotels Klöpp is the place for you. Check into a room with all the comforts you need and then head straight out into the bars, cafés, boutiques and the nightlife of central Reykjavik. Klöpp is your sanctuary in the heart of the city.",
+    "is": "Ef þú vilt vera í hringiðu miðbæjarins, þá er Center Hotels Klöpp hárrétti staðurinn. Herbergin eru fallega innréttuð með öllum helstu þægindum og svo er örstutt í allt miðbæjarfjörið. Hverfið hefur gengið í gegnum miklar breytingar og er orðið einstaklega aðlaðandi og spennandi."
+   },
+   "amenities": {
+    "en": [
+     "Bar",
+     "Free wifi",
+     "Breakfast",
+     "24 hour front desk"
+    ],
+    "is": [
+     "Bar",
+     "Þráðlaust net",
+     "Morgunverður",
+     "24 klst móttaka"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Standard Single",
+     "kicker": {
+      "en": "City based",
+      "is": "Flott og fín"
+     },
+     "strap": {
+      "en": "Perfect little pad",
+      "is": "Fullkomin í borginni"
+     },
+     "m2": "13.5",
+     "sleeps": null,
+     "desc": {
+      "en": "The standard single rooms are 13.5 m² on average and have either 90 cm or 120 cm bed. All of these rooms include a shower, free WiFi, flat screen TV, telephone and a hairdryer. An iron, ironing board and a fan is available upon request. Please note that extra beds and cribs are not available for this room type",
+      "is": "Standard Single rooms eru að meðaltali 13,5 m² að stærð og hafa annað hvort 90 cm eða 120 cm rúm. Öll þessi herbergi eru með sturtu, ókeypis þráðlausu interneti, flatskjá, síma og hárþurrku. Hægt er að fá straujárn, strauborð og viftu sé þess óskað. Auka rúm og barnarúm eru ekki í boði fyrir þessi herbergi."
+     },
+     "img": {
+      "base": "assets/img/klopp/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "Perfect city choice",
+      "is": "Tilvalinn kostur í borginni"
+     },
+     "strap": {
+      "en": "Light, bright and airy",
+      "is": "Stórir gluggar"
+     },
+     "m2": "17.2",
+     "sleeps": null,
+     "desc": {
+      "en": "The standard double rooms are 17.2 m² in size on average, and have one queen size bed or two single beds that can be seamlessly combined into a double bed. The rooms have large windows making the rooms bright and airy. All of these rooms include a refrigerator, shower, free WiFi, flat screen TV, telephone and a hairdryer. An iron, ironing board and a fan is available upon request. Please note that extra beds and cribs are not available for this room type.",
+      "is": "Standard double herbergin eru að meðaltali 17.2 m² að stærð og eru með eitt rúm í queen stærð, eða tvö einstaklingsrúm sem hægt er að sameina í eitt rúm. Herbergin eru rúmgóð og björt með stórum gluggum. Öll þessi herbergi eru með ísskáp, sturtu, ókeypis þráðlausu interneti, flatskjá, síma og hárþurrku. Hægt er að fá straujárn, strauborð og viftu sé þess óskað. Auka rúm og barnarúm eru ekki í boði fyrir þessi herbergi."
+     },
+     "img": {
+      "base": "assets/img/klopp/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Superior Single",
+     "kicker": {
+      "en": "Bright and comfy",
+      "is": "Björt og notaleg"
+     },
+     "strap": {
+      "en": "City based room",
+      "is": "Í hjarta borgarinnar"
+     },
+     "m2": "15.3",
+     "sleeps": null,
+     "desc": {
+      "en": "The superior single rooms are all bright, beautiful corner rooms with city views, offering an average size of 15.3 m² for a spacious and comfortable stay. Each room features a 120 cm bed and is equipped with a shower, free WiFi, flat-screen TV, telephone, and hairdryer. An iron, ironing board, and fan are available upon request. Please note that extra beds and cribs are not available for this room type.",
+      "is": "Superior single herbergin eru björt og falleg hornherbergi með borgarútsýni, og eru um 15,3 m² að stærð. Hvert herbergi er með 120 cm rúmi og með sturtu, ókeypis þráðlausu interneti, flatskjá, síma og hárþurrku. Hægt er að fá straujárn, strauborð og viftu sé þess óskað. Auka rúm og barnarúm eru ekki í boði fyrir þessi herbergi."
+     },
+     "img": {
+      "base": "assets/img/klopp/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Superior Double/Twin",
+     "kicker": {
+      "en": "Large windows",
+      "is": "Stórir gluggar"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": null,
+     "sleeps": null,
+     "desc": {
+      "en": "Spacious and comfy If you’d like a bit more space to call your own, try a superior double/twin at Klöpp in average size of 18.7 m 2 . The sense of space in these big rooms is amplified by the large windows, many offering partial views of the sea and the mountains beyond. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Rúmgóð og notaleg Viltu hafa aðeins meira pláss? Þessi herbergi sem eru 18,7 m 2 að meðalstærð henta þér fullkomlega. Bjartir og stórir glugga hafa afar jákvæð áhrif á herbergin og mörg þeirra bjóða upp á útsýni yfir hafið og fjöllin hinu megin við Faxaflóann. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/klopp/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [],
+   "nearby": [
+    [
+     "Harpa",
+     "Harpa",
+     8
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     8
+    ],
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     10
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     10
+    ],
+    [
+     "Sundhöllin pool",
+     "Sundhöllin",
+     11
+    ]
+   ],
+   "others": [
+    [
+     "Skjaldbreið",
+     "Skjaldbreið",
+     1,
+     "skjaldbreid"
+    ],
+    [
+     "Þingholt",
+     "Þingholt",
+     4,
+     "thingholt"
+    ],
+    [
+     "Þingholt Apartments",
+     "Þingholt Apartments",
+     4,
+     "thingholt-apartments"
+    ]
+   ]
+  },
+  {
+   "id": "laugavegur",
+   "slug": "laugavegur",
+   "name": "Center Hotels Laugavegur",
+   "short": "Laugavegur",
+   "area": "laugavegur",
+   "band": "night",
+   "tone": "paper",
+   "address": "Laugavegur 95–99, 101 Reykjavík",
+   "propid": 27453,
+   "opened": 2019,
+   "rooms_n": 102,
+   "geo": [
+    64.143465,
+    -21.917229
+   ],
+   "hero": {
+    "base": "assets/img/laugavegur/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/laugavegur/g0",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/laugavegur/g1",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/laugavegur/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "The first hotel in the refreshed Center Hotels look",
+    "is": "Fyrsta hótelið í nýrri ásýnd Center Hotels"
+   },
+   "story": {
+    "en": "Laugavegur roughly translates as “Pool Road”. It was the old route to the hot springs where Reykjavík locals once did their laundry. Today it’s the city’s main shopping street and home to our seventh hotel, with 102 rooms and a restaurant. At 25 years, we refreshed the Center Hotels brand, and Laugavegur was the first hotel in our new look. It’s full of stories, quotes and sayings about Iceland and Icelanders, so our guests can feel part of the family.",
+    "is": "Laugavegur dregur nafn sitt af gömlu leiðinni að Þvottalaugunum, þangað sem Reykvíkingar fóru áður með þvottinn sinn. Í dag er Laugavegur aðalverslunargata borgarinnar og heimili sjöunda hótelsins okkar, með 102 herbergjum, veitingastaðnum Lóa Matur & Vín og bar. Á 25 ára afmælinu endurnýjuðum við ásýnd Center Hotels og Laugavegur varð fyrsta hótelið í nýja búningnum."
+   },
+   "lede": {
+    "en": "Hotel on Reykjavík’s main street",
+    "is": "Í hjarta Reykjavíkur"
+   },
+   "intro": {
+    "en": "Right on Laugavegur, Reykjavík’s famous shopping street, this hotel captures the city’s quirky, urban vibe. Perfect for exploring downtown Reykjavík, Center Hotels Laugavegur is one of the best hotels in Reykjavík for travelers who want shopping, dining, and nightlife just steps away.",
+    "is": "Center Hotels Laugavegur tekur sig vel út á horni Laugavegar og Snorrabrautar. Staðsetning hótelsins er með besta móti og eru gestir í miðju iðandi lífsins á Laugaveg þar sem stutt er í allt það helsta sem miðborgin býður upp á. Herbergin eru fallega innréttuð og bjóða upp á skemmtilegt útsýni yfir miðborgina. Það er gott að byrja daginn á Center Hotels Laugaveg."
+   },
+   "amenities": {
+    "en": [
+     "Restaurant",
+     "Bar",
+     "Breakfast",
+     "Balcony",
+     "Free wifi"
+    ],
+    "is": [
+     "Veitingastaður",
+     "Bar",
+     "Morgunverður",
+     "Svalir",
+     "Frítt WiFi"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Small Double",
+     "kicker": {
+      "en": "Compact & Cosy",
+      "is": "Lítið & notalegt"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "12.5",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Small Double Rooms average 12.5 m² and are compact, stylish and thoughtfully designed. Each room features a comfortable queen-size bed, a private bathroom with a shower, free Wi-Fi, a TV and a telephone. Ideal for a cosy short stay for 2 guests.",
+      "is": "Small Double herbergin eru að meðaltali 12,5 m², fallega hönnuð og nýta rýmið vel. Í hverju herbergi er þægilegt queen-size-rúm, sérbaðherbergi með sturtu, ókeypis Wi-Fi, sjónvarp og sími. Tilvalin fyrir notalega stutta dvöl fyrir 2 gesti."
+     },
+     "img": {
+      "base": "assets/img/laugavegur/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "Comfort Your Way",
+      "is": "Þægindi fyrir tvo"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "17",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Standard Double/Twin Rooms average 17 m² and offer a comfortable, thoughtfully designed space. Each room features two single beds that can be combined into one king-size bed upon request, a private bathroom with a shower, free Wi-Fi, a TV and a telephone. Window sizes vary, and some rooms offer views of Reykjavík city center. A baby cot is available upon request for an additional fee. Ideal for 2 guests.",
+      "is": "Standard Double/Twin herbergin eru að meðaltali 17 m², þægileg og vel hönnuð. Í hverju herbergi eru tvö einbreið rúm sem hægt er að sameina í eitt king-size-rúm sé þess óskað, sérbaðherbergi með sturtu, ókeypis Wi-Fi, sjónvarp og sími. Stærð glugga er mismunandi og sum herbergin bjóða upp á útsýni yfir miðborg Reykjavíkur. Hægt er að óska eftir barnarúmi gegn aukagjaldi. Tilvalin fyrir 2 gesti."
+     },
+     "img": {
+      "base": "assets/img/laugavegur/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Balcony Double/Twin",
+     "kicker": {
+      "en": "Your Private Balcony",
+      "is": "Þínar eigin svalir"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "17",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Balcony Double/Twin Rooms average 17 m² and are located on the hotel’s top floor, featuring private balconies with views over Reykjavík. Each room includes two single beds that can be combined into one king-size bed upon request, a private bathroom with a shower, free Wi-Fi, a TV and a telephone. A baby cot is available upon request. Ideal for 2 guests.",
+      "is": "Balcony Double/Twin herbergin eru að meðaltali 17 m² og eru staðsett á efstu hæð hótelsins. Þau eru með einkasvölum og útsýni yfir Reykjavík. Í hverju herbergi eru tvö einbreið rúm sem hægt er að sameina í eitt king-size-rúm sé þess óskað, sérbaðherbergi með sturtu, ókeypis Wi-Fi, sjónvarp og sími. Hægt er að óska eftir barnarúmi. Tilvalin fyrir 2 gesti."
+     },
+     "img": {
+      "base": "assets/img/laugavegur/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Deluxe Double/Twin",
+     "kicker": {
+      "en": "Room to relax",
+      "is": "Rúmgóð slökun"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "21",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Deluxe Double/Twin Rooms average 21 m² and offer plenty of space to relax. Some feature floor-to-ceiling windows with views over Laugavegur, Reykjavík’s main shopping street. Each room includes two single beds that can be combined into one king-size bed upon request, a spacious private bathroom with a bathtub, free Wi-Fi, a TV, a telephone, and a Nespresso machine. Rooms with a balconet, as well as a baby cot or extra bed, are available upon request for an additional fee. Ideal for up to 3 guests.",
+      "is": "Deluxe Double/Twin herbergin eru að meðaltali 21 m² og bjóða upp á gott rými til að slaka á. Sum herbergin eru með gólfsíðum gluggum og útsýni yfir Laugaveg. Í hverju herbergi eru tvö einbreið rúm sem hægt er að sameina í eitt king-size-rúm sé þess óskað, rúmgott sérbaðherbergi með baðkari, ókeypis Wi-Fi, sjónvarp, sími og Nespresso-kaffivél. Hægt er að óska eftir herbergi með frönskum svölum, barnarúmi eða aukarúmi gegn aukagjaldi. Tilvalin fyrir allt að 3 gesti."
+     },
+     "img": {
+      "base": "assets/img/laugavegur/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-5",
+     "name": "Deluxe Corner Room",
+     "kicker": {
+      "en": "The Best Corner",
+      "is": "Besta hornið"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "25",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Deluxe Corner Rooms average 25 m² and are bright and spacious, with a prime corner location, floor-to-ceiling windows and a private balcony offering fantastic views over Reykjavík. Each room features two single beds that can be combined into one king-size bed upon request, a private bathroom with a shower, free Wi-Fi, a TV, telephone and Nespresso machine. Bathrobes, slippers and complimentary laundry service are also included. A baby cot is available upon request for an additional fee. Ideal for 2 guests. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Deluxe Corner herbergin eru að meðaltali 25 m², björt og rúmgóð. Þau eru á horni byggingarinnar, með gólfsíðum gluggum, einkasvölum og frábæru útsýni yfir Reykjavík. Í hverju herbergi eru tvö einbreið rúm sem hægt er að sameina í eitt king-size-rúm sé þess óskað, sérbaðherbergi með sturtu, ókeypis Wi-Fi, sjónvarp, sími og Nespresso-kaffivél. Baðsloppar, inniskór og ókeypis þvottaþjónusta eru einnig innifalin. Hægt er að óska eftir barnarúmi gegn aukagjaldi. Tilvalin fyrir 2 gesti. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/laugavegur/room-5",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [
+    {
+     "kicker": {
+      "en": "LÓA Matur & Vín",
+      "is": "LÓA Matur & Vín"
+     },
+     "title": {
+      "en": "Icelandic flavors at Lóa Matur & Vín",
+      "is": "Eitthvað fyrir alla"
+     },
+     "text": {
+      "en": "Lóa Matur & Vín celebrates the richness of Icelandic ingredients through the warmth and character of Iberian cuisine. Our kitchen brings together exceptional local produce with the bold flavours and traditions of Portugal and Spain, creating dishes that are both refined and deeply satisfying. In the heart of downtown Reykjavík, Lóa offers genuine hospitality, an outstanding wine and cocktails programme and an atmosphere where memorable dining comes naturally. For our guests of all Center Hotels, we offer a 15% discount on the á la carte menu.",
+      "is": "Lóa Matur & Vín er einstaklega góður veitingastaður sem er staðsettur á Center Hotels Laugaveg. Eldhúsið okkar er opið daglega frá 18:00 til 22:00 og býður upp á íslenska klassík með Miðjarðarhafsívafi. Gestir Center Hotels fá 15% afslátt af kvöldverðaseðli hjá Lóu á meðan dvalið er á hótelinu"
+     },
+     "img": {
+      "base": "assets/img/laugavegur/f1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "nearby": [
+    [
+     "Sundhöllin pool",
+     "Sundhöllin",
+     4
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     8
+    ],
+    [
+     "Harpa",
+     "Harpa",
+     17
+    ],
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     20
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     20
+    ]
+   ],
+   "others": [
+    [
+     "Miðgarður",
+     "Miðgarður",
+     3,
+     "midgardur"
+    ],
+    [
+     "Klöpp",
+     "Klöpp",
+     10,
+     "klopp"
+    ],
+    [
+     "Skjaldbreið",
+     "Skjaldbreið",
+     11,
+     "skjaldbreid"
+    ]
+   ]
+  },
+  {
+   "id": "midgardur",
+   "slug": "midgardur",
+   "name": "Miðgarður by Center Hotels",
+   "short": "Miðgarður",
+   "area": "laugavegur",
+   "band": "night",
+   "tone": "paper",
+   "address": "Laugavegur 120, 105 Reykjavík",
+   "propid": 26688,
+   "opened": 2015,
+   "rooms_n": 170,
+   "geo": [
+    64.142556,
+    -21.913592
+   ],
+   "hero": {
+    "base": "assets/img/midgardur/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/midgardur/g1",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/midgardur/g2",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/midgardur/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "The former Agricultural Bank of Iceland, Búnaðarbankinn",
+    "is": "Áður Búnaðarbanki Íslands"
+   },
+   "story": {
+    "en": "After two decades of hard work, Kristófer and Svanfríður finally set off on their dream: sailing around the world. That same year, we opened Miðgarður in the former home of the Agricultural Bank of Iceland (Búnaðarbankinn). Today the old bank is anything but quiet. It has 170 rooms, a secluded garden, a spa, and meeting rooms and event venues for all sizes. At its heart is Jörgensen Kitchen & Bar, which comes alive with live music every Thursday.",
+    "is": "Eftir tvo áratugi af mikilli vinnu létu Kristófer og Svanfríður loks drauminn rætast og sigldu af stað umhverfis jörðina. Sama ár opnuðum við Miðgarð í byggingu sem áður hýsti Búnaðarbanka Íslands. Í dag er gamli bankinn allt annað en rólegur. Þar eru 170 herbergi, afgirtur garður, heilsulind, fundarsalir og viðburðarými af öllum stærðum. Í hjarta hússins er Jörgensen Kitchen & Bar, þar sem lifandi tónlist ómar alla fimmtudaga."
+   },
+   "lede": {
+    "en": "City Center Spa Hotel in Reykjavik",
+    "is": "Mitt í miðri Reykjavík"
+   },
+   "intro": {
+    "en": "Located on Laugavegur, Reykjavik’s main shopping street, Miðgarður by Center Hotels is a city center hotel with a spa and a lively atmosphere. The hotel features Jörgensen Kitchen & Bar, known for its local flavors and live music, as well as a spa with an outdoor hot tub for a relaxing Icelandic experience.",
+    "is": "Miðgarður er vel staðsett hótel ofarlega á Laugaveginum. Hótelið er einstaklega fallegt og lumar á skemmtilegum iðagrænum garði í miðju hótelsins þar sem gott er að eiga notalega stund. Miðgarður spa er falleg heilsulind með heitum pottum og á Jörgensen Bar & Kitchen er boðið upp á ljúffengar veitingar og dillandi, lifandi tónlist. Fyrsta flokks fundaraðstaða er einnig að finna á Miðgarði."
+   },
+   "amenities": {
+    "en": [
+     "Garden",
+     "Restaurant",
+     "Bar",
+     "Spa",
+     "Meeting room"
+    ],
+    "is": [
+     "Garður",
+     "Veitingastaður",
+     "Bar",
+     "Heilsulind",
+     "Fundarsalur"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "Made for two",
+      "is": "Tilvalið fyrir tvo"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "17.7",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Standard Double/Twin Rooms average 17.7 m² and feature two single beds that can be combined into one double bed upon request. Modern and thoughtfully designed, each room includes a minibar, TV, telephone, free Wi-Fi and a private bathroom with a shower. A baby cot and spa access are available upon request for an additional fee. Ideal for 2 guests.",
+      "is": "Standard Double/Twin herbergin eru að meðaltali 17,7 m² og eru með tveimur einbreiðum rúmum sem hægt er að sameina í eitt tvíbreitt rúm sé þess óskað. Herbergin eru nútímaleg og smekklega hönnuð og í þeim eru minibar, sjónvarp, sími, ókeypis Wi-Fi og sérbaðherbergi með sturtu. Hægt er að óska eftir barnarúmi og aðgangi að spa gegn aukagjaldi. Tilvalin fyrir 2 gesti."
+     },
+     "img": {
+      "base": "assets/img/midgardur/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Standard Plus Double/Twin",
+     "kicker": {
+      "en": "A little more",
+      "is": "Aðeins meira"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "18.5",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Standard Plus Double/Twin Rooms average 18.5 m² and feature two single beds that can be combined into one double bed upon request. Each room includes a minibar, TV, telephone, free Wi-Fi, and a private bathroom with a bathtub-and-shower combination. Complimentary spa access, bathrobes and slippers are included. A baby cot is available upon request for an additional fee. Ideal for 2 guests.",
+      "is": "Standard Plus Double/Twin herbergin eru að meðaltali 18,5 m² og eru með tveimur einbreiðum rúmum sem hægt er að sameina í eitt tvíbreitt rúm sé þess óskað. Í hverju herbergi eru minibar, sjónvarp, sími, ókeypis Wi-Fi og sérbaðherbergi með baðkari og sturtu. Innifalið er aðgangur að spa, baðsloppar og inniskór. Hægt er að óska eftir barnarúmi gegn aukagjaldi. Tilvalin fyrir 2 gesti."
+     },
+     "img": {
+      "base": "assets/img/midgardur/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Deluxe Double/Twin",
+     "kicker": {
+      "en": "Bright & Spacious",
+      "is": "Bjart og rúmgott"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "21",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Deluxe Double/Twin Rooms average 21 m² and are spacious, bright, and well-located within the hotel. Each room features two single beds that can be combined into one double bed upon request, along with a minibar, TV, telephone, free Wi-Fi, and a bathroom with a shower. A bathtub-and-shower combination is available upon request. Complimentary spa access, bathrobes, and slippers are included. A sofa, baby cot, or extra bed is available upon request for an additional fee. Ideal for up to 3 guests. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Deluxe Double/Twin herbergin eru að meðaltali 21 m², rúmgóð, björt og vel staðsett á hótelinu. Í hverju herbergi eru tvö einbreið rúm sem hægt er að sameina í eitt tvíbreitt rúm sé þess óskað, minibar, sjónvarp, sími, ókeypis Wi-Fi og baðherbergi með sturtu. Hægt er að óska eftir baðherbergi með baðkari og sturtu samsetningu. Innifalið er aðgangur að spa, baðsloppar og inniskór. Hægt er að óska eftir sófa, barnarúmi eða aukarúmi gegn aukagjaldi. Tilvalin fyrir allt að 3 gesti. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/midgardur/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [
+    {
+     "kicker": {
+      "en": "MIÐGARÐUR SPA",
+      "is": "Miðgarður spa"
+     },
+     "title": {
+      "en": "Spa escape in the city",
+      "is": "Slepptu þér og slakaðu svo á"
+     },
+     "text": {
+      "en": "Enjoy spa and fitness facilities designed for all seasons. The weather never stops an Icelander from taking a dip. Heated and open every day of the year, the highlight of the Miðgarður spa is the open-air hot tub. If you’re lucky, you might catch the Northern lights as you bathe. Additional features include an indoor hot pool, sauna, cold water shower, and a range of massage therapies. The gym also has areas for cardio and weights.",
+      "is": "Taktu á því í ræktinni okkar og njóttu svo lífsins í heita eða kalda pottinum, já eða sánunni. Hafðu það heitt eða kalt – en umfram allt gott. Og talandi um gott, skelltu þér í nudd hjá okkur. Það fullkomnar daginn."
+     },
+     "img": {
+      "base": "assets/img/midgardur/f1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "JÖRGENSEN KITCHEN",
+      "is": "Jörgensen Kitchen"
+     },
+     "title": {
+      "en": "Reykjavík dining & drinks",
+      "is": "Með reykvískum blæ"
+     },
+     "text": {
+      "en": "Taste modern Icelandic cuisine with a lively local atmosphere. There’s always a buzz at Jörgensen Kitchen & Bar. Contemporary Nordic cuisine and wines from around the world draw in a crowd of locals and guests. Live music in the garden adds magic to Thursday nights, especially when you’re sipping cocktails under the midnight sun. If you are staying at Center Hotels, you get 15% discount of the á la carte menu at Jörgensen Kitchen & Bar.",
+      "is": "Djassinn dunar á Jörgensen og skandinavíska eldhúsið með vínum frá öllum heimshlutum skapa aðstæður sem heilla. Á fimmtudagskvöldum dregur dillandi jazz taktur í garðinum unnendur góðrar tónlistar að og þá er fátt ljúfara en að súpa á svalandi kokteil. Ef þú ert gestur á Center Hotels, færðu 10% afslátt af matnum á á la carte seðlinum."
+     },
+     "img": {
+      "base": "assets/img/midgardur/f2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "VENUES",
+      "is": "VEISLUSALIR"
+     },
+     "title": {
+      "en": "Your Reykjavík venue",
+      "is": "Veisla í miðborginni"
+     },
+     "text": {
+      "en": "Plan events in the heart of Reykjavík with a local touch. Miðgarður offers an ideal location to host a venue in a true Reykjavik style. No matter the size of the party you are planning, we are able to assist you in hosting the perfect event.",
+      "is": "Veislusalurinn á Miðgarði er stór og skemmtilega uppsettur, tilvalinn til að halda bæði stórar sem smáar veislur. Salurinn er fallega innréttaður og útgengt er út í afgirtan garð sem veislugestir geta nýtt sér á meðan á veislunni stendur. Úrval veitinga er með veislusalnum."
+     },
+     "img": {
+      "base": "assets/img/midgardur/f3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "nearby": [
+    [
+     "Sundhöllin pool",
+     "Sundhöllin",
+     5
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     10
+    ],
+    [
+     "Harpa",
+     "Harpa",
+     21
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     23
+    ],
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     24
+    ]
+   ],
+   "others": [
+    [
+     "Laugavegur",
+     "Laugavegur",
+     3,
+     "laugavegur"
+    ],
+    [
+     "Klöpp",
+     "Klöpp",
+     14,
+     "klopp"
+    ],
+    [
+     "Skjaldbreið",
+     "Skjaldbreið",
+     15,
+     "skjaldbreid"
+    ]
+   ]
+  },
+  {
+   "id": "grandi",
+   "slug": "grandi",
+   "name": "Grandi by Center Hotels",
+   "short": "Grandi",
+   "area": "grandi",
+   "band": "stone",
+   "tone": "ink",
+   "address": "Seljavegur 2, 101 Reykjavík",
+   "propid": 27834,
+   "opened": 2021,
+   "rooms_n": 225,
+   "geo": [
+    64.152127,
+    -21.951319
+   ],
+   "hero": {
+    "base": "assets/img/grandi/hero",
+    "w": [
+     700,
+     1200,
+     1920
+    ],
+    "size": [
+     1200,
+     675
+    ]
+   },
+   "gallery": [
+    {
+     "base": "assets/img/grandi/g0",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/grandi/g2",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    },
+    {
+     "base": "assets/img/grandi/g3",
+     "w": [
+      700,
+      1200
+     ],
+     "size": [
+      1200,
+      675
+     ]
+    }
+   ],
+   "past": {
+    "en": "The machine shop of Héðinn, the marine engineering and steelworks company",
+    "is": "Vélsmiðja Héðins"
+   },
+   "story": {
+    "en": "After a very tough 2020, we opened hotel number eight in Grandi. The building was once the machine shop of Héðinn, a well-known marine engineering and steelworks company. The hotel opened with 195 rooms, and in 2026 we added 30 more, bringing the total to 225. The hotel features Grandi Restaurant & Bar, plus a venue and meeting rooms. The spa has a skylight above the hot tub, so you can soak in the warm water while you watch the Icelandic sky above you.",
+    "is": "Eftir mjög krefjandi ár 2020 opnuðum við áttunda hótelið okkar á Granda. Húsið hýsti áður vélsmiðju Héðins, þekkts fyrirtækis í vélsmíði og stáliðnaði. Hótelið opnaði með 195 herbergjum en árið 2026 bættum við 30 við, svo nú eru herbergin 225 talsins. Á hótelinu er Grandi restaurant & bar, auk viðburðarýmis og fundarsala. Heilsulindin er með þakglugga beint yfir heita pottinum, þannig að hægt er að slaka á og horfa beint upp í himininn."
+   },
+   "lede": {
+    "en": "Stylish harbor hotel with spa",
+    "is": "Hrjúfur stíll"
+   },
+   "intro": {
+    "en": "In Reykjavik’s creative Grandi district near the Old Harbour, Center Hotels Grandi is a stylish, industrial hotel perfect for travelers who want to stay central. With a lively bar, restaurant, spa, and cozy rooms, it offers a great mix of design, comfort, and atmosphere in one of the city’s most vibrant areas.",
+    "is": "Grandi hótel er staðsett í hinum skemmtilega og líflega hluta borgarinnar, Granda. Hótelið, sem áður hýsti vélsmiðjuna Héðinn, er hannað í hráum en um leið fallegum og þægilegum stíl og býður upp á skemmtilegt og líflegt umhverfi á veitingastað og bar hótelsins. Okkur finnst sérstaklega gaman að hafa notalegt í kringum okkur sem kemur vel fram í rúmgóðu og björtu herbergjunum og þægilegu húsgögnunum. Á Granda er að finna sannkallaða borgarstemningu í anda Reykjavíkur."
+   },
+   "amenities": {
+    "en": [
+     "Restaurant",
+     "Bar",
+     "Breakfast"
+    ],
+    "is": [
+     "Veitingastaður",
+     "Bar",
+     "Morgunverður"
+    ]
+   },
+   "rooms": [
+    {
+     "slug": "room-1",
+     "name": "Standard Double/Twin",
+     "kicker": {
+      "en": "Bright & Cozy",
+      "is": "Bjart & notalegt"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "18",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Standard Double/Twin Rooms average 18 m² in size and feature bright interiors, a shower, and a king-size bed that can be arranged as two twin beds upon request. Sleeps up to 2 adults and 1 child. A crib is available on request for an additional fee.",
+      "is": "Standard Double/Twin herbergin eru að meðaltali 18 m² að stærð og eru fallega innréttuð með sturtu og king-size rúmi sem hægt er að breyta í tvö aðskilin rúm sé þess óskað. Herbergin henta fyrir allt að 2 fullorðna og 1 barn. Hægt er að fá ungbarnarúm gegn aukagjaldi."
+     },
+     "img": {
+      "base": "assets/img/grandi/room-1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-2",
+     "name": "Standard Plus Double/Twin",
+     "kicker": {
+      "en": "Room to relax",
+      "is": "Rými til að slaka á"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "23",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Standard Plus Double/Twin Rooms are bright and spacious, averaging 23 m². Each room features a king-size bed that can be arranged as two twin beds upon request. Rooms come with either a shower or a bathtub/shower combo; bathtub rooms are available on request and subject to availability. Ideal for up to 3 adults or 2 adults and 1 child. A crib or extra bed can be added for an additional fee.",
+      "is": "Standard Plus Double/Twin herbergin eru björt og þægileg, að meðaltali 23 m² að stærð. Herbergin eru útbúin king-size rúmi sem hægt er að breyta í tvö aðskilin rúm sé þess óskað. Herbergin eru með sturtu en í sumum herbergjum er einnig baðkar sem hægt er að óska sérstaklega eftir. Herbergin henta fyrir allt að 3 fullorðna eða 2 fullorðna og 1 barn. Hægt er að bæta við ungbarnarúmi eða aukarúmi gegn aukagjaldi."
+     },
+     "img": {
+      "base": "assets/img/grandi/room-2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-3",
+     "name": "Balcony Double/Twin",
+     "kicker": {
+      "en": "Top Floor Views",
+      "is": "Svalir & útsýni"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "21",
+     "sleeps": 2,
+     "desc": {
+      "en": "The Balcony Double/Twin Rooms are located on the hotel’s top floor and offer beautiful city views from a private balcony. Averaging 21 m², each room features a king-size bed that can be arranged as two twin beds upon request and a bathtub/shower combo. Ideal for 2 guests. A crib can be added on request for an additional fee.",
+      "is": "Balcony Double/Twin herbergin eru staðsett á efstu hæð hótelsins og bjóða upp á einstakt útsýni yfir borgina. Sér svalir fylgja með hverju herbergi sem eru að meðaltali 21 m² að stærð. Rúmin eru í king-size stærð sem hægt er að breyta í tvö aðskilin rúm sé þess óskað. Öll herbergin hafa baðkar og sturtu samsetningu. Herbergin henta vel fyrir tvo gesti. Möguleiki er að bæta við ungbarnarúmi gegn aukagjaldi."
+     },
+     "img": {
+      "base": "assets/img/grandi/room-3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-4",
+     "name": "Deluxe Double/Twin",
+     "kicker": {
+      "en": "Stay with spa",
+      "is": "Gisting með spa"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "30",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Deluxe Double/Twin Rooms are spacious and comfortable, averaging 30 m². Each room features a bathtub/shower combo, a king-size bed that can be arranged as two twin beds upon request. Complimentary access to Grandi Spa is included for adult guests. Children aged 12-17 must be accompanied by an adult. Ideal for up to 3 adults or 2 adults and 1 child. Sofa beds are available on request, and cribs can be added for an additional fee.",
+      "is": "Deluxe Double/Twin herbergin eru rúmgóð og þægileg, að meðaltali 30 m² að stærð. Herbergin eru útbúin king-size rúmi sem hægt er að breyta í tvö aðskilin rúm sé þess óskað. Baðkar með sturtu er inni á öllum herbergjunum. Aðgangur að Granda Spa fylgir með fyrir gesti 18 ára og eldri. Börn á aldrinum 12–17 ára þurfa að vera í fylgd með fullorðnum. Herbergin henta fyrir allt að 3 fullorðna eða 2 fullorðna og 1 barn. Möguleiki er að fá herbergi með svefnsófa og hægt er að bæta við barnarúmi en það kostar aukalega."
+     },
+     "img": {
+      "base": "assets/img/grandi/room-4",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-5",
+     "name": "Junior Suite",
+     "kicker": {
+      "en": "Space to Unwind",
+      "is": "Rými til að njóta"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "30",
+     "sleeps": 3,
+     "desc": {
+      "en": "The Junior Suites are spacious and stylish, averaging 30 m² and designed for a more elevated stay. Each suite features a king-size bed, a sofa bed, and a bathtub/shower combo. Complimentary access to Grandi Spa is included for adult guests. Children aged 12–17 must be accompanied by an adult. The Junior Suites are ideal for up to 3 adults, or 2 adults and 1 child. Cribs can be added on request for an additional fee.",
+      "is": "Junior Suite svíturnar á Granda eru rúmgóðar og stílhreinar, að meðaltali 30 m² að stærð og hannaðar fyrir þá sem vilja aðeins meiri þægindi. Í svítunum er king-size rúm, svefnsófi og baðkar með sturtu. Aðgangur að Granda Spa fylgir með fyrir gesti 18 ára og eldri. Börn á aldrinum 12–17 ára þurfa að vera í fylgd með fullorðnum. Herbergin henta fyrir allt að 3 fullorðna eða 2 fullorðna og 1 barn. Hægt er að bæta við ungbarnarúmi gegn aukagjaldi."
+     },
+     "img": {
+      "base": "assets/img/grandi/room-5",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-6",
+     "name": "Suite",
+     "kicker": {
+      "en": "Stay in style",
+      "is": "Svíta með útsýní"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "45",
+     "sleeps": 4,
+     "desc": {
+      "en": "The Grandi Suite is the hotel’s most spacious and luxurious room, averaging 45 m² in size and located on the top floor. The suite features a separate bedroom, a comfortable seating area, two bathrooms, and a private balcony with beautiful views. Guests can enjoy a king-size bed, a bathtub/shower combo, and complimentary access to Grandi Spa. Children under 12 are not permitted in the spa, while guests aged 12–17 must be accompanied by an adult. Suitable for up to 3 adults and 1 child. Cribs can be added for an additional fee.",
+      "is": "Grandi Suite er glæsilegasti og rúmbesti valkostur hótelsins, að meðaltali 45 m² að stærð og staðsett á efstu hæð. Í svítunni er aðskilið svefnherbergi, þægileg setustofa, tvö baðherbergi og sér svalir með fallegu útsýni. Í svítunni er king-size rúm sem hægt er að breyta í tvö aðskilin rúm sé þess óskað ásamt baðkari með sturtu. Aðgangur að Granda Spa fylgir með fyrir gesti 18 ára og eldri. Gestir á aldrinum 12–17 ára þurfa að vera í fylgd með fullorðnum. Svítan hentar fyrir allt að 3 fullorðna og 1 barn. Hægt er að bæta við ungbarnarúmi gegn aukagjaldi."
+     },
+     "img": {
+      "base": "assets/img/grandi/room-6",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "slug": "room-7",
+     "name": "Family Room",
+     "kicker": {
+      "en": "Made for Families",
+      "is": "Fyrir fjölskyldur"
+     },
+     "strap": {
+      "en": "",
+      "is": ""
+     },
+     "m2": "30",
+     "sleeps": 4,
+     "desc": {
+      "en": "The Family Rooms are well-sized and comfortable, averaging 30 m² in size and thoughtfully designed for families traveling together. Each room features a king-size bed and a bathtub/shower combo, offering a cozy space to relax after a day exploring Reykjavík. Sofa beds (140 cm wide) are available on request, and cribs can be added for an additional fee. Ideal for up to 3 adults, or 2 adults and 2 children under 12 years old. SSN: 450905-1430 VAT: 96931 Tel: +354 595 8500 Information FAQ Privacy Policy Terms & Conditions Cancellation policy Sustainability policy Social media facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");",
+      "is": "Family herbergin eru vel hönnuð og fjölskylduvæn, að meðaltali 30 m² að stærð. Í herbergjunum er king-size rúm og baðkar með sturtu. Herbergin eru þægileg og góður kostur til að slaka á eftir erilsaman dag í borginni. Svefnsófi (140 cm á breidd) er í boði sé þess óskað og hægt er að bæta við ungbarnarúmi gegn aukagjaldi. Herbergin henta fyrir allt að 3 fullorðna eða 2 fullorðna og 2 börn yngri en 12 ára. SSN: 450905-1430 VAT: 96931 Sími: +354 595 8500 Upplýsingar Algengar spurningar Persónuvernd Skilmálar Afbókunarskilmálar Sjálfbærnistefnan Samfélagsmiðlar facebook instagram linkedin blog (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NFSKBHG'); !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '788862624641665'); fbq('track', 'PageView'); (function(a,t,b,c,d){c=a.createElement(t);c.src=b,c.defer=true,c.async=true,c.crossOrigin='anonymous';c.type=\"text/javascript\";d=a.getElementsByTagName(t)[0];d.parentNode.insertBefore(c,d)})(document,\"script\",\"https://onboard.triptease.io/bootstrap.js?integrationId=01DC70XS0CB5M1Y497Q1MZ1SVY\");"
+     },
+     "img": {
+      "base": "assets/img/grandi/room-7",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "features": [
+    {
+     "kicker": {
+      "en": "Grandi Restaurant",
+      "is": "Grandi restaurant"
+     },
+     "title": {
+      "en": "Vibrant dining in Reykjavík",
+      "is": "Úrval veitinga"
+     },
+     "text": {
+      "en": "Craving great food and wine in Reykjavík? Step into Grandi’s beautifully decorated restaurant. Grandi restaurant offers a good selection of food and wines. The restaurant is open every day for dinner, and guests staying at Grandi hotel get 15% discount of the á la carte menu.",
+      "is": "Veitingastaðurinn á Granda er hinn fullkomni staður til að njóta. Í boði er úrval af góðum réttum, einstaklega bragðgóðir, matreiddir úr hágæða hráefni. Veitingastaðurinn er opinn alla daga vikunnar fyrir bæði kvöldverð og barsnakk. Hótelgestir Center Hotels fá 15% afslátt af á la carte matseðlinum."
+     },
+     "img": {
+      "base": "assets/img/grandi/f1",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "Meeting & Venues",
+      "is": "Salir"
+     },
+     "title": {
+      "en": "Business & Events spaces",
+      "is": "Fundir & veislur"
+     },
+     "text": {
+      "en": "Looking for flexible meeting venues in Reykjavík? The two venues at Grandi, each spanning 40 sqm, can be merged to create an expansive 80 sqm space. This versatile venue caters perfectly to both meetings and private events. Equipped with large windows that add natural light to the room. Comfortable seating and tables are provided, which can be arranged in multiple configurations to suit your event. Catering is handled by Grandi restaurant, offering a good selection of dishes for our meetings and venues.",
+      "is": "Salirnir á Granda eru þeir Hamar og Steðji sem tilvaldir eru fyrir bæði fundi og veislur. Hvor um sig er 40 fm að stærð og hægt er að sameina í einn 80 fm sal. Stórir gluggar eru í sölunum sem hleypa inn fallegri birtu og þægilegir stólar og borð gera fundi og veislur einfaldlega notalegri. Hægt er að raða salnum upp á marga vegu, allt eftir eðli fundarins og Grandi restaurant & bar sér um veitingar fyrir salina."
+     },
+     "img": {
+      "base": "assets/img/grandi/f2",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    },
+    {
+     "kicker": {
+      "en": "Grandi spa",
+      "is": "Grandi spa"
+     },
+     "title": {
+      "en": "Grandi Spa Experience",
+      "is": "Lúxus & slökun"
+     },
+     "text": {
+      "en": "A spa hotel experience in Reykjavík where warm water meets cool design. Grandi Spa provides a wellness experience with gorgeous design and spacious layout. Among the facilities are massage rooms and a lounge area equipped with comfortable seating and warmed by the ambient light fireplace. Additionally, the spa has two hot tubs, set at different temperatures. Above these hot tubs is an open skylight that allows natural light to filter in offering guests the unique opportunity to view the sky while enjoying the warm waters.",
+      "is": "Hönnuð með þægindi og slökun í huga, Grandi spa býður upp á einstakt rými fyrir góða upplifun og vellíðan. Heilsulindin einkennist af einstaklega fallegri hönnun þar sem áhersla er lögð á að gestir fái að njóta sín. Í heilsulindinni er að finna þrjú nuddherbergi, afslöppunarrými, saunu og búningsklefa. Að auki eru tveir heitir pottar í heilsulindinni sem eru með mismunandi hitastig. Opinn hringlaga gluggi sem hleypir náttúrulegu ljósi er staðsettur fyrir ofan heitu pottana þannig að hægt er að horfa upp í himinn á meðan gestir njóta sín í pottunum."
+     },
+     "img": {
+      "base": "assets/img/grandi/f3",
+      "w": [
+       700,
+       1200
+      ],
+      "size": [
+       1200,
+       630
+      ]
+     }
+    }
+   ],
+   "nearby": [
+    [
+     "The Old Harbour",
+     "Gamla höfnin",
+     3
+    ],
+    [
+     "Ingólfstorg",
+     "Ingólfstorg",
+     11
+    ],
+    [
+     "City Hall and Tjörnin",
+     "Ráðhúsið og Tjörnin",
+     13
+    ],
+    [
+     "Harpa",
+     "Harpa",
+     15
+    ],
+    [
+     "Hallgrímskirkja",
+     "Hallgrímskirkja",
+     27
+    ]
+   ],
+   "others": [
+    [
+     "Plaza",
+     "Plaza",
+     10,
+     "plaza"
+    ],
+    [
+     "Þingholt Apartments",
+     "Þingholt Apartments",
+     16,
+     "thingholt-apartments"
+    ],
+    [
+     "Arnarhvoll",
+     "Arnarhvoll",
+     17,
+     "arnarhvoll"
+    ]
+   ]
+  }
+ ],
+ "areas": [
+  {
+   "key": "harbour",
+   "en": "Kvosin and the harbour",
+   "is": "Kvosin og höfnin",
+   "script": "Kvosin",
+   "band": "char",
+   "tone": "paper",
+   "hotels": [
+    "plaza",
+    "arnarhvoll"
+   ],
+   "lede": {
+    "en": "Aðalstræti is the oldest street in Reykjavík and Ingólfstorg the oldest square. A few minutes east, Arnarhvoll looks across the sea to Mount Esja.",
+    "is": "Aðalstræti er elsta gata Reykjavíkur og Ingólfstorg elsta torgið. Nokkrum mínútum austar horfir Arnarhvoll yfir sjóinn í átt að Esjunni."
+   }
+  },
+  {
+   "key": "thingholt",
+   "en": "Þingholt",
+   "is": "Þingholt",
+   "script": "Þingholt",
+   "band": "sage",
+   "tone": "ink",
+   "hotels": [
+    "thingholt",
+    "thingholt-apartments"
+   ],
+   "lede": {
+    "en": "Þingholtsstræti is one of the oldest streets in the city centre, just off Laugavegur. The hotel and the apartments face each other across it.",
+    "is": "Þingholtsstræti er ein elsta gata miðbæjarins, rétt við Laugaveg. Hótelið og íbúðirnar standa hvort sínum megin götunnar."
+   }
+  },
+  {
+   "key": "laugavegur",
+   "en": "Laugavegur",
+   "is": "Laugavegur",
+   "script": "Laugavegur",
+   "band": "night",
+   "tone": "paper",
+   "hotels": [
+    "skjaldbreid",
+    "klopp",
+    "laugavegur",
+    "midgardur"
+   ],
+   "lede": {
+    "en": "Laugavegur roughly translates as “Pool Road”: the old route to the hot springs where locals did their laundry. Today it is the city’s main shopping street, with four of our hotels along it.",
+    "is": "Laugavegur dregur nafn sitt af gömlu leiðinni að Þvottalaugunum, þangað sem Reykvíkingar fóru með þvottinn sinn. Í dag er hann aðalverslunargata borgarinnar og fjögur hótelanna okkar standa við hann."
+   }
+  },
+  {
+   "key": "grandi",
+   "en": "Grandi",
+   "is": "Grandi",
+   "script": "Grandi",
+   "band": "stone",
+   "tone": "ink",
+   "hotels": [
+    "grandi"
+   ],
+   "lede": {
+    "en": "One of the liveliest parts of the city centre, close to the up-and-coming harbour area where Reykjavík’s creative scene keeps growing.",
+    "is": "Eitt líflegasta svæði miðborgarinnar, við hafnarsvæði í mikilli uppbyggingu þar sem skapandi starfsemi vex og dafnar."
+   }
+  }
+ ]
+}
