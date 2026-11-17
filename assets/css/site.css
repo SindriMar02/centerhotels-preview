@@ -226,6 +226,8 @@ a, button, summary, select { touch-action: manipulation; -webkit-tap-highlight-c
 .push-in .hd-box { --box-bg: transparent; color: #fff; }
 .push-in p.lede { font-size: clamp(1.05rem, .95rem + .4vw, 1.3rem); line-height: 1.45; max-width: 36em; margin-top: 20px; }
 .push-in .btn { margin-top: 24px; }
+/* phones: the copy is taller than the square photo, so the block grows with it (17 Nov iOS: kicker was cut off above the clip) */
+@media (max-width: 699px) { .push::before { display: none; } .push-in { position: relative; padding-top: calc(clamp(3.5rem, 2.97rem + 2.25vw, 5rem) + 48vw); } }
 
 /* ---- section frame (c-ns): 1px rule inside the margins ---- */
 .ns { position: relative; padding-block: clamp(3rem, 2rem + 4vw, 6rem); }
